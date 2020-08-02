@@ -30,6 +30,11 @@ My name is Mykola Morhunenko, I am a studant at the Ukrainian Catholic Universit
     <td><img src="https://profile-counter.glitch.me/Myralllka/count.svg" alt="" /></td>
   </tr>
 </table>
+## Recent activity
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 <!--
 **Myralllka/Myralllka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
