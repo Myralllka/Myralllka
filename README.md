@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Mykola Morhunenko, I am a studant at Ukrainian Catholic University and R&D Trainee at SoftServe. 
+My name is Mykola Morhunenko, I am a studant at the Ukrainian Catholic University and R&D Trainee at the SoftServe.
 
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:houshuai0816@gmail.com)](mailto:nick.morgunenko@gmail.com)
 
