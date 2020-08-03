@@ -24,14 +24,6 @@ My name is Mykola Morhunenko, I am a studant at the Ukrainian Catholic Universit
 - ROS for UAV`s
 - University Linux club
 
-<table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/Myralllka/count.svg" alt="" /></td>
-  </tr>
-</table>
-
-
 <!--
 **Myralllka/Myralllka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
