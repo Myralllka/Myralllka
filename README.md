@@ -16,13 +16,13 @@ My name is Mykola Morhunenko, I am a studant at the Ukrainian Catholic Universit
 - C++
 - Rust
 #### Directions for development
-- Edge AI
 - Robotics
 - Linux system
 ### - 🔭 I’m currently working on
-- Xilinx zc702 board
+- Edge AI (Xilinx boards)
 - ROS for UAV`s
 - University Linux club
+- Third grade at the University.
 
 <!--
 **Myralllka/Myralllka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
