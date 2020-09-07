@@ -15,6 +15,7 @@ My name is Mykola Morhunenko, I am a studant at the Ukrainian Catholic Universit
 #### Languages
 - C++
 - Rust
+
 #### Directions for development
 - Robotics
 - Linux system
@@ -23,15 +24,22 @@ My name is Mykola Morhunenko, I am a studant at the Ukrainian Catholic Universit
 - ROS for UAV`s
 - University Linux club
 - Third grade at the University.
-
+- Arch linux administration
+### - 🤔 I’m looking for help with 
+- Tasks on Linux club
+- New Ideas for second semester of the club
+- FPGA CNN articles
+### - 👯 I’m looking to collaborate on
+- Interesting **Open source** projects related with Linux, as Conky, Tmux etc.
+### - 📫 How to reach me: ...
+- My email ^_^
+- Issues to my small projects
+### - 💬 Ask me about ...
+Everything you want. I am open to all tolics.
+### - 😄 Pronouns my nickname...
+I am from Ukraine, and in the CS 1.6 we had a tradition to write using transliteration, but very special. So my nickname actually mean `Ant` in English, and reads as __Murashka__
 <!--
 **Myralllka/Myralllka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
