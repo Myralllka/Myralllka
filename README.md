@@ -26,10 +26,10 @@ My name is Mykola Morhunenko, and I am a studant at the Ukrainian Catholic Unive
 - Teacher's assistant at the University
 - Arch linux administration
 ###  ✨ And my projects for the nearest future: 
-- UAV's Object tracking and detection 
-- Drivers for OLED display on Raspberry PI 3
+- (Artifisial Inteligence course work) UAV's Object tracking and detection 
+- (Operating systems course work) Drivers for OLED display on Raspberry PI 3
 - One project on Nordic board using Zephyr OS
-- Self-driving car on the STM32 + Jetson/NUC (in process)
+- Self-driving car on the STM32 + Jetson/NUC
 - Linux Club
 - Parallel programming on C++ course work.
 ### - 🤔 I’m looking for help with 
