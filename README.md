@@ -4,10 +4,10 @@ My name is Mykola Morhunenko, and I am a studant at the Ukrainian Catholic Unive
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:houshuai0816@gmail.com)](mailto:nick.morgunenko@gmail.com)
 
 
-### My Github Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Myralllka&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<!--### My Github Stats
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Myralllka&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myralllka&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myralllka&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
