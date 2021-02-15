@@ -1,5 +1,5 @@
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hi there &nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
-My name is Mykola Morhunenko, and I am a student at the Ukrainian Catholic University and R&D Junior at the SoftServe. Also I am an Exchange student at Faculty of Electrical Enginnering at the Czech Technical University in Prague.
+My name is Mykola Morhunenko, and I am a student at the Ukrainian Catholic University and R&D Junior at the SoftServe. Also I am an Exchange student at Faculty of Electrical Engineering at the Czech Technical University in Prague.
 
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:houshuai0816@gmail.com)](mailto:nick.morgunenko@gmail.com)
 
