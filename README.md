@@ -15,9 +15,8 @@ My name is Mykola Morhunenko, and I am a student at the Ukrainian Catholic Unive
 ### - 🌱 I’m currently learning
 #### Languages
 - C++
-- Rust
-- Lisp
-- Haskell
+- Python
+- Lisp (Racket) and Haskel
 
 #### Directions for development
 - Robotics
