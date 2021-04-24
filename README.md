@@ -7,7 +7,7 @@ My name is Mykola Morhunenko, and I am a student at the Ukrainian Catholic Unive
 ### My Github Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Myralllka&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myralllka&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myralllka&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
