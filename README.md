@@ -16,7 +16,7 @@ My name is Mykola Morhunenko, and I am a student at the Ukrainian Catholic Unive
 #### Languages
 - C++
 - Python
-- Lisp (Racket) and Haskel
+
 
 #### Directions for development
 - Robotics
@@ -24,12 +24,14 @@ My name is Mykola Morhunenko, and I am a student at the Ukrainian Catholic Unive
 
 ### - 🔭 In general, I'm currently working on
 - ROS for UAV's
+- MRS lib
 - University Linux club
 - Teacher's assistant at the University
-- Arch Linux administration
+- Linux administration
 
 ###  ✨ And my projects for the nearest future: 
 - (CTU FEE project) Long term self-localization UAV's
+- Other MRS small projects (for example, gimbal with camera)
 - Linux Club
 
 ### - 🤔 I'm looking for help with 
