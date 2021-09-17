@@ -5,12 +5,10 @@ My name is Mykola Morhunenko, and I am a student at the Ukrainian Catholic Unive
 
 
 ### My Github Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Myralllka&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myralllka&show_icons=true&theme=gruvbox&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=myralllka&show_icons=true&hide_title=true&count_private=true&disable_animations=true&theme=github_dark&line_height=29"/>
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myralllka&layout=compact&langs_count=8&theme=github_dark"/>
+</p>
 
 ### - 🌱 I’m currently learning
 #### Languages
@@ -20,31 +18,24 @@ My name is Mykola Morhunenko, and I am a student at the Ukrainian Catholic Unive
 
 #### Directions for development
 - Robotics
-- Linux system
+- Computer vision
+- Arch linux operating system
 
 ### - 🔭 In general, I'm currently working on
 - ROS for UAV's
-- MRS lib
 - University Linux club
-- Teacher's assistant at the University
+- Teacher's assistance at the Ukrainian Catholic University
 - Linux administration
 
 ###  ✨ And my projects for the nearest future: 
 - (CTU FEE project) Long term self-localization UAV's
-- Other MRS small projects (for example, gimbal with camera)
+- Other MRS small projects (for example, gimbal with camera, point cloud NNs)
 - Linux Club
 
 ### - 🤔 I'm looking for help with 
 - Tasks on Linux club
 - New Ideas for the club
+- Checking my English spelling for the Linux course
 
-### - 👯 I'm looking to collaborate on
-- Interesting **Open-source** projects related to Linux, as Conky, Tmux etc.
-
-### - 📫 How to reach me: ...
-- My email ^_^
-- Issues to my small projects
-### - 💬 Ask me about ...
-Everything you want. I am open to all topics.
 ### - 😄 Pronounce my nickname...
 I am from the centre of Ukraine, and in 2010th in CS 1.6 we had a tradition to write using transliteration, but very special. So my nickname actually means `Ant` in English, and reads as __Murashka__
