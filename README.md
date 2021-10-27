@@ -5,8 +5,8 @@ My name is Mykola Morhunenko, and I am a student at the Ukrainian Catholic Unive
 
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=myralllka&show_icons=true&hide_title=true&count_private=true&disable_animations=true&theme=github_dark&line_height=29"/>
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myralllka&layout=compact&langs_count=8&theme=github_dark"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=myralllka&show_icons=true&hide_title=true&count_private=true&disable_animations=false&theme=github_dark&line_height=33&hide_rank=true"/>
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myralllka&layout=compact&langs_count=10&theme=github_dark"/>
 </p>
 
 ### - 🌱 I’m currently learning
