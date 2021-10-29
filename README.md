@@ -11,9 +11,8 @@ My name is Mykola Morhunenko, and I am a student at the Ukrainian Catholic Unive
 
 ### - 🌱 I’m currently learning
 #### Languages
-- C++
-- Python
-
+- C++     (mostly HPC: parallelisation using STL tools, OpenMP, OpenMPI. Also cv and robotics)
+- Python  (geometry of computer vision, 3d computer vision, no NN's, all by hands)
 
 #### Directions for development
 - Robotics
@@ -23,7 +22,7 @@ My name is Mykola Morhunenko, and I am a student at the Ukrainian Catholic Unive
 ### - 🔭 In general, I'm currently working on
 - ROS for UAV's
 - University Linux club
-- Teacher's assistance at the Ukrainian Catholic University
+- Teacher's assistance at the Ukrainian Catholic University (Principals of Computer organisation, Operation systems courses)
 - Linux administration
 
 ###  ✨ And my projects for the nearest future: 
@@ -32,9 +31,9 @@ My name is Mykola Morhunenko, and I am a student at the Ukrainian Catholic Unive
 - Linux Club
 
 ### - 🤔 I'm looking for help with 
-- Tasks on Linux club
+- Tasks on future Linux Course
 - New Ideas for the club
-- Checking my English spelling for the Linux course
+- Checking my English spelling for the Linux course =)
 
 ### - 😄 Pronounce my nickname...
 I am from the centre of Ukraine, and in 2010th in CS 1.6 we had a tradition to write using transliteration, but very special. So my nickname actually means `Ant` in English, and reads as __Murashka__
