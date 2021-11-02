@@ -25,15 +25,5 @@ My name is Mykola Morhunenko, and I am a student at the Ukrainian Catholic Unive
 - Teacher's assistance at the Ukrainian Catholic University (Principals of Computer organisation, Operation systems courses)
 - Linux administration
 
-###  ✨ And my projects for the nearest future: 
-- (CTU FEE project) Long term self-localization UAV's
-- Other MRS small projects (for example, gimbal with camera, point cloud NNs)
-- Linux Club
-
-### - 🤔 I'm looking for help with 
-- Tasks on future Linux Course
-- New Ideas for the club
-- Checking my English spelling for the Linux course =)
-
 ### - 😄 Pronounce my nickname...
 I am from the centre of Ukraine, and in 2010th in CS 1.6 we had a tradition to write using transliteration, but very special. So my nickname actually means `Ant` in English, and reads as __Murashka__
