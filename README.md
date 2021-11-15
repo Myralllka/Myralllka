@@ -21,6 +21,7 @@ My name is Mykola Morhunenko, and I am a student at the Ukrainian Catholic Unive
 
 ### - 🔭 In general, I'm currently working on
 - ROS for UAV's
+- Vision-Based SLAM for UAV's
 - University Linux club
 - Teacher's assistance at the Ukrainian Catholic University (Principals of Computer organisation, Operation systems courses)
 - Linux administration
