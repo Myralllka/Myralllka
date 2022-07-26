@@ -6,6 +6,7 @@ My name is Mykola Morhunenko, I am an intern student at Faculty of Electrical En
 
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:houshuai0816@gmail.com)](mailto:nick.morgunenko@gmail.com)
 
+:star: UCU alumni
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=myralllka&show_icons=true&hide_title=true&count_private=true&disable_animations=false&theme=github_dark&line_height=33&hide_rank=true"/>
