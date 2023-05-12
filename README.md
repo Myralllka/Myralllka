@@ -13,10 +13,10 @@ My name is Mykola Morhunenko, I am an intern student at Faculty of Electrical En
 <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myralllka&layout=compact&langs_count=10&theme=github_dark"/>
 </p>
 
-### - 🌱 I’m currently learning
+<!-- ### - 🌱 I’m currently learning
 #### Languages
-- C++     (parallelisation using STL tools, OpenMP, OpenMPI. Also cv and robotics)
-- Python  (geometry of computer vision, 3d computer vision, no NN's, all by hands)
+- C++
+- Python
 
 #### Directions for development
 - Robotics
@@ -27,7 +27,7 @@ My name is Mykola Morhunenko, I am an intern student at Faculty of Electrical En
 - ROS for UAV's
 - Vision-Based obstacle avoidance for UAV's, visual SLAM
 - Teacher's assistance at the Ukrainian Catholic University (Principals of Computer organisation, Operation systems, Computer systems architecture courses)
-- Linux administration 
+- Linux administration  -->
 
-### - 😄 Pronounce my nickname...
-I am from the centre of Ukraine, and in 2010th in CS 1.6 we had a tradition to write using transliteration, but very special. So my nickname actually means `Ant` in English, and reads as __Murashka__
+<!-- ### - 😄 Pronounce my nickname...
+I am from the centre of Ukraine, and in 2010th in CS 1.6 we had a tradition to write using transliteration, but very special. So my nickname actually means `Ant` in English, and reads as __Murashka__ -->
