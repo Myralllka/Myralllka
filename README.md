@@ -2,7 +2,7 @@
 
 ### Hi there! [![RussianWarship](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://vshymanskyy.github.io/StandWithUkraine) and all civilised people [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
-My name is Mykola Morhunenko, I am an intern student at Faculty of Electrical Engineering at the Czech Technical University in Prague.
+My name is Morhunenko Mykola; I am a master's student at the Faculty of Electrical Engineering, Czech Technical University in Prague and Robotics Engeniere at FoxFour.
 
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:houshuai0816@gmail.com)](mailto:nick.morgunenko@gmail.com)
 
