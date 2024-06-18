@@ -2,11 +2,12 @@
 
 ### Hi there! [![RussianWarship](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://vshymanskyy.github.io/StandWithUkraine) and all civilised people [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
-My name is Morhunenko Mykola; I am a master's student at the Faculty of Electrical Engineering, Czech Technical University in Prague and Robotics Engeniere at FoxFour.
+My name is Morhunenko Mykola; I work as a Robotics Engeniere at FoxFour.
 
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:houshuai0816@gmail.com)](mailto:nick.morgunenko@gmail.com)
 
-:star: UCU alumni
+:star: [UCU](https://ucu.edu.ua/en/) alumni, Bachelor in Computer Science <br />
+:star: [CTU](https://www.cvut.cz/en) alumni, Masters in Cybernetics and Robotics
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=myralllka&show_icons=true&hide_title=true&count_private=true&disable_animations=false&theme=github_dark&line_height=33&hide_rank=true"/>
