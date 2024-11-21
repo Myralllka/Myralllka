@@ -2,7 +2,7 @@
 
 ### Hi there! [![RussianWarship](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://vshymanskyy.github.io/StandWithUkraine) and all civilised people [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
-My name is Morhunenko Mykola; I work as a Robotics Engeniere at FoxFour.
+My name is Morhunenko Mykola; I work as a Robotics Engineer at FoxFour.
 
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:houshuai0816@gmail.com)](mailto:nick.morgunenko@gmail.com)
 
